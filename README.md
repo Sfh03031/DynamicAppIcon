@@ -1,2 +1,2 @@
 # DynamicAppIcon
-动态化AppIcon示例，分别包含利用runtime去掉弹窗、使用IMP绕过消息转发机制直接调用从而避免弹窗
+swift动态化AppIcon示例，分别包含利用runtime去掉弹窗、使用IMP绕过消息转发机制直接调用从而避免弹窗
